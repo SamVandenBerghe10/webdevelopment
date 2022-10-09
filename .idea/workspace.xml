@@ -25,16 +25,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "DefaultHtmlFileTemplate": "HTML File",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Web Developement/GitHub/webdevelopment/labo 3/homepage",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Web Developement/GitHub/webdevelopment/labo 3/homepage&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 3\homepage" />
@@ -52,7 +52,8 @@
       <option name="presentableId" value="Default" />
       <updated>1664954115633</updated>
       <workItem from="1664954117337" duration="2649000" />
-      <workItem from="1665144828756" duration="15423000" />
+      <workItem from="1665144828756" duration="16231000" />
+      <workItem from="1665306310946" duration="677000" />
     </task>
     <servers />
   </component>
