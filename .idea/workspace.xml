@@ -10,6 +10,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="CSS File" />
         <option value="HTML File" />
       </list>
     </option>
@@ -32,6 +33,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Web Developement/GitHub/webdevelopment/labo 4/opdracht_5&quot;,
+    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -41,6 +43,7 @@
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 3\homepage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 5\opdracht_4" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 4\opdracht_2" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 3\opdracht_1_2_3" />
     </key>
@@ -64,7 +67,12 @@
       <workItem from="1665579922664" duration="198000" />
       <workItem from="1665646292873" duration="526000" />
       <workItem from="1665831158445" duration="1108000" />
-      <workItem from="1665846894338" duration="1288000" />
+      <workItem from="1665846894338" duration="1334000" />
+      <workItem from="1666162594788" duration="1000" />
+      <workItem from="1666165160857" duration="3867000" />
+      <workItem from="1666530777717" duration="2038000" />
+      <workItem from="1666693951158" duration="272000" />
+      <workItem from="1666727339946" duration="589000" />
     </task>
     <servers />
   </component>
