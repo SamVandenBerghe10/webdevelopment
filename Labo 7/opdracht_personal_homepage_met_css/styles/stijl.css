@@ -1,0 +1,130 @@
+body{font-family: sans-serif;}
+
+th,td{border: 1px solid dodgerblue; text-align: center;}
+
+header
+{
+    background-image: url('../images/headerachtergrond.png'); height: 205px;
+}
+
+aside
+{
+    float:right; margin-top: 50px; color:white;
+}
+
+h1
+{
+    text-align: center; color: white; padding-top: 75px; font-size: 50px; margin-left: 200px;
+}
+
+.clear
+{
+    clear:both;
+}
+
+.persoonlijkefigure h2
+{
+    margin-left: 50px; color:white; text-shadow: 1px 1px 4px dodgerblue;
+}
+
+.persoonlijkegegevens
+{
+    border-color: dodgerblue; border-radius: 10px; border-style: solid; float: left; margin-left: 40px; padding-left:10px; padding-right: 10px; background-color: dodgerblue; color:white;
+}
+
+.fotorechts
+{
+    float: right; margin-right: 70px;
+}
+.fotorechts img
+{
+    border-radius: 10px;
+}
+.fotorechts p
+{
+    width: 250px; color: dodgerblue;
+}
+
+.tussenstuk
+{
+    background-image: url('../images/tussenstukachtergrond.png'); margin-bottom: 50px; height: 205px
+}
+
+.tussenstuk h2
+{
+    text-align: center; padding-top:100px; color:white;
+}
+
+.hobbys
+{
+    border-color: dodgerblue; border-radius: 10px; border-style: solid; float: left; margin-left: 40px; padding-left:10px; padding-right: 10px; background-color: dodgerblue; color:white; margin-top: 30px; width: 500px;
+}
+.hobbys a
+{
+    color: white;
+}
+
+.likes
+{
+    border-color: dodgerblue; border-radius: 10px; border-style: solid; float: left; margin-left: 40px; padding-left:10px; padding-right: 10px; background-color: dodgerblue; color:white; margin-top: 30px; width: 250px; margin-bottom: 30px;
+}
+
+.likes img
+{
+    height: 200px; margin-top:10px; display: block; margin-left: auto; margin-right: auto;
+}
+
+.likes a
+{
+    color: white;
+}
+
+table
+{
+    border: 1px solid dodgerblue; color: dodgerblue; margin-left: auto; margin-right: auto;
+}
+
+th
+{
+    width: 200px;
+}
+
+.datagrid table
+{
+    border-collapse: collapse;
+    width: 100%;
+}
+.datagrid
+{
+    font: normal 12px/150% Arial, Helvetica, sans-serif;
+    overflow: hidden;
+    border: 1px solid #1E90FF;
+    border-radius: 10px;
+}
+.datagrid table td, .datagrid table th
+{
+    padding: 5px 6px;
+}
+.datagrid table thead th
+{
+    background-color:#1E90FF;
+    color:#FFFFFF;
+    font-size: 15px;
+}
+.datagrid table tbody td
+{
+    color: #1E90FF;
+    border-left: 1px solid #F4F4F4;
+    font-size: 12px;
+}
+.datagrid table tbody .alt td
+{
+    background: #CFE5FF;
+    color: #1E90FF;
+}
+
+td:empty
+{
+    background-color: red;
+}
+

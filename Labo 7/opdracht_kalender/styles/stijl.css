@@ -1,0 +1,34 @@
+table
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+}
+th
+{
+    border: 1px black;
+    background-color: rgb(170,170,200);
+}
+td
+{
+    border: 1px dotted;
+
+}
+td:first-child, td:last-child
+{
+    background-color:rgb(255, 220, 220);
+}
+.vrijedag
+{
+    background-color: rgb(250,120,120);
+}
+tr:first-child td
+{
+    color: rgb(200,190,240);
+    background-color: rgb(35,37,70);
+
+}
+tr:nth-child(2) td:first-child, tr:last-child td:nth-child(5), tr:last-child td:nth-child(6), tr:last-child td:nth-child(7)
+{
+    background-color: grey;
+    color: darkgrey;
+}
