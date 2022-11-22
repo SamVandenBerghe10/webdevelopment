@@ -22,6 +22,7 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FhpLYlWStropzfjDBhELJtaTnb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -84,7 +85,9 @@
       <workItem from="1667040283475" duration="2665000" />
       <workItem from="1667981582591" duration="5479000" />
       <workItem from="1668270114207" duration="10628000" />
-      <workItem from="1668339080349" duration="191000" />
+      <workItem from="1668339080349" duration="598000" />
+      <workItem from="1669140176601" duration="1446000" />
+      <workItem from="1669141698587" duration="300000" />
     </task>
     <servers />
   </component>
