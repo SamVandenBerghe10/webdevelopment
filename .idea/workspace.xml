@@ -2,18 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo 8  versie 2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 8  versie 2/opdracht_flexbox/opdracht_flexbox.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 8  versie 2/opdracht_flexbox/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 8/fonts/kumbh.ttf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 8/images/bg-pattern-bottom.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 8/images/bg-pattern-card.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 8/images/bg-pattern-top.svg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 8/images/favicon-32x32.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 8/images/image-victor.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 8/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 8/style.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,8 +13,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -47,7 +37,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Web Developement/GitHub/webdevelopment/Labo 7/opdracht_3/images",
+    "last_opened_file_path": "C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Web Developement/GitHub/webdevelopment/labo 8",
     "list.type.of.created.stylesheet": "CSS",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "vcs.Git",
@@ -56,17 +46,17 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 8" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\Labo 7\opdracht_3\images" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\Labo 7\opdracht_3" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 6\opdracht_3" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 4\opdracht_5" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 3\homepage" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 8" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 8  versie 2\opdracht_flexbox" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 8  versie 2" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 8\opdracht_flexbox" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 8" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\Labo 7\opdracht_3\images" />
     </key>
   </component>
@@ -101,7 +91,10 @@
       <workItem from="1668270114207" duration="10628000" />
       <workItem from="1668339080349" duration="598000" />
       <workItem from="1669140176601" duration="1446000" />
-      <workItem from="1669141698587" duration="1570000" />
+      <workItem from="1669141698587" duration="1728000" />
+      <workItem from="1669190526432" duration="5028000" />
+      <workItem from="1669363036839" duration="1055000" />
+      <workItem from="1669470713649" duration="6303000" />
     </task>
     <servers />
   </component>
