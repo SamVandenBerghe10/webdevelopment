@@ -1,0 +1,17 @@
+body
+{
+    font-family: sans-serif;
+}
+header
+{
+    background-image: url('../images/headerachtergrond.png'); height: 205px;
+}
+.tussenstuk
+{
+    background-image: url('../images/tussenstukachtergrond.png'); margin-bottom: 50px; height: 205px
+}
+
+
+
+
+
