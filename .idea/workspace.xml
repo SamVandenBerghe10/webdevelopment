@@ -2,11 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo 10/opdracht_composition_a/opdracht_compositon_a.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 10/opdracht_composition_a/style/stijl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 11/extra_opdracht/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 11/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 11/opdracht_1/opdracht_1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 11/opdracht_2/opdracht_2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 11/opdracht_3/opdracht 3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 11/opdracht_4/opdracht_4.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 11/opdracht_5/opdracht_5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 11/opdracht_6/opdracht_6.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 10/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 10/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 10/opdracht_composition_a/opdracht_compositon_a.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 10/opdracht_composition_a/opdracht_compositon_a.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +22,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -56,11 +62,11 @@
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\Labo 7\opdracht_3" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 11" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 9\opdracht_airbus" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 9\opdracht_positionering_van_images" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 9" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 8" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 8  versie 2\opdracht_flexbox" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -107,6 +113,10 @@
       <workItem from="1670595295064" duration="2412000" />
       <workItem from="1670672237231" duration="7069000" />
       <workItem from="1670768138684" duration="4148000" />
+      <workItem from="1670772442606" duration="80000" />
+      <workItem from="1671004660438" duration="79000" />
+      <workItem from="1671005349343" duration="5700000" />
+      <workItem from="1671020022961" duration="2673000" />
     </task>
     <servers />
   </component>
