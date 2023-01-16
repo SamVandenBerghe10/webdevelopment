@@ -123,8 +123,13 @@ th
     color: #1E90FF;
 }
 
-td:empty
+.datagrid table tbody td:empty
 {
     background-color: red;
 }
+.datagrid table tbody .alt td:empty
+{
+    background-color: red;
+}
+
 
