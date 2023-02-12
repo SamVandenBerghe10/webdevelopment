@@ -2,84 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/ik wil meer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_1/style/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/images/background.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/images/black.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/images/blue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/images/chai.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/images/cocktail.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/images/cocktails.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/images/green.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/images/lightblue.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/images/red.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/images/yellow.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/opdracht_cocktail_bar.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.rtl.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.bundle.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.esm.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.esm.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.min.js.map" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/headerimage.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/logo.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/recipes/bbq.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/recipes/burger.jpeg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/recipes/mediterranean.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/recommended/food1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/recommended/food2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/recommended/food3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/recommended/food4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/recommended/food5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/recommended/food6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/recommended/food7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/recommended/food8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/img/recommended/food9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/start.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/style/bootstrap-grid.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/style/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 14/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Labo 7/opdracht_personal_homepage_met_css/styles/stijl.css" beforeDir="false" afterPath="$PROJECT_DIR$/Labo 7/opdracht_personal_homepage_met_css/styles/stijl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.rtl.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.bundle.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.esm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/style/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/style/bootstrap-grid.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 10/beginsituatie_bootstrap5/style/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo 10/beginsituatie_bootstrap5/style/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 10/beginsituatie_bootstrap5/style/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo 10/beginsituatie_bootstrap5/style/bootstrap-grid.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 10/opdracht_personal_homepage_met_bootstrap/styles/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo 10/opdracht_personal_homepage_met_bootstrap/styles/bootstrap-grid.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 6/opdracht_3/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 6/opdracht_3/resume.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 9/opdracht_airbus/airbus.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 9/opdracht_airbus/airbus.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -190,6 +143,7 @@
       <workItem from="1672934386585" duration="227000" />
       <workItem from="1673879376755" duration="749000" />
       <workItem from="1673880163559" duration="1192000" />
+      <workItem from="1676211205705" duration="167000" />
     </task>
     <servers />
   </component>
