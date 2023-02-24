@@ -2,37 +2,26 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo 14/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_1/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_3/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_4/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_4/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_5/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_6/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_6/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_arrays/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_arrays/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_kopieer/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_kopieer/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_loops and arrays/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_substring/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_substring/js/JavaScript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-grid.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-reboot.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap-utilities.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.rtl.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.rtl.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/css/bootstrap.rtl.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.bundle.js" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.bundle.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.bundle.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.esm.js" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.esm.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.esm.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.js" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_cocktail_bar/style/bootstrap-5.0.2-dist/js/bootstrap.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/style/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/ik wil meer/opdracht_kitchn/style/bootstrap-grid.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 10/beginsituatie_bootstrap5/style/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo 10/beginsituatie_bootstrap5/style/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 10/beginsituatie_bootstrap5/style/bootstrap-grid.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo 10/beginsituatie_bootstrap5/style/bootstrap-grid.min.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 10/opdracht_personal_homepage_met_bootstrap/styles/bootstrap-grid.css" beforeDir="false" afterPath="$PROJECT_DIR$/labo 10/opdracht_personal_homepage_met_bootstrap/styles/bootstrap-grid.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 6/opdracht_3/resume.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 6/opdracht_3/resume.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 9/opdracht_airbus/airbus.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 9/opdracht_airbus/airbus.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,6 +33,7 @@
       <list>
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -54,7 +44,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2FhpLYlWStropzfjDBhELJtaTnb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,7 +58,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Web Developement/GitHub/webdevelopment/ik wil meer/opdracht_kitchn/img&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/labo 15/opdracht_kopieer&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
@@ -75,18 +67,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_kopieer" />
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_4" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\ik wil meer\opdracht_kitchn\img" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\ik wil meer\opdracht_kitchn" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\ik wil meer\opdracht_cocktail_bar\style" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\ik wil meer" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\ik wil meer\opdracht_1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_arrays\js" />
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_1\js" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\ik wil meer\opdracht_kitchn\style" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 11" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 9\opdracht_airbus" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 9\opdracht_positionering_van_images" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 9" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -143,7 +135,9 @@
       <workItem from="1672934386585" duration="227000" />
       <workItem from="1673879376755" duration="749000" />
       <workItem from="1673880163559" duration="1192000" />
-      <workItem from="1676211205705" duration="167000" />
+      <workItem from="1676211205705" duration="346000" />
+      <workItem from="1676815599799" duration="10957000" />
+      <workItem from="1677264021048" duration="591000" />
     </task>
     <servers />
   </component>
