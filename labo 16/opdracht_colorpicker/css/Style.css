@@ -1,0 +1,17 @@
+.kleur
+{
+    border: black solid 1px;
+    height: 100px;
+    width: 100px;
+    margin-left: 20px;
+}
+section
+{
+    border: #666666 solid 5px;
+    width: 400px;
+    padding: 10px;
+}
+.item
+{
+    display: inline-block;
+}

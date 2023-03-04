@@ -2,26 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo 15/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_1/js/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_3/js/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_4/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_4/js/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_5/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_5/js/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_6/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_6/js/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_arrays/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_arrays/js/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_kopieer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_kopieer/js/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_loops and arrays/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_substring/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 15/opdracht_substring/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_1/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_1/index2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_1/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_1/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_2/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_colorpicker/css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_colorpicker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_colorpicker/js/Javascript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_paragrafen/css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_paragrafen/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_paragrafen/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_producten/css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_producten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 16/opdracht_producten/js/Javascript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 15/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 15/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,9 +30,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
-        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -51,27 +50,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/labo 15/opdracht_kopieer&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/labo 16/opdracht_1",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "settings.space",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 16\opdracht_1" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_kopieer" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_4" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\ik wil meer\opdracht_kitchn\img" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\ik wil meer\opdracht_kitchn" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\ik wil meer\opdracht_cocktail_bar\style" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_arrays\js" />
@@ -80,6 +80,11 @@
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 11" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 9\opdracht_airbus" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="JavaScript.js" type="NodeJSConfigurationType" nameIsGenerated="true" path-to-js-file="JavaScript.js" working-dir="$PROJECT_DIR$/labo 16/opdracht_paragrafen/js">
+      <method v="2" />
+    </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -137,7 +142,8 @@
       <workItem from="1673880163559" duration="1192000" />
       <workItem from="1676211205705" duration="346000" />
       <workItem from="1676815599799" duration="10957000" />
-      <workItem from="1677264021048" duration="591000" />
+      <workItem from="1677264021048" duration="891000" />
+      <workItem from="1677940698110" duration="15246000" />
     </task>
     <servers />
   </component>
