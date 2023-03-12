@@ -4,12 +4,8 @@
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo 17/Man van An/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 17/Man van An/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 17/opdracht_invulformulier/formulierElementen.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 17/opdracht_invulformulier/formulierElementen.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo 17/opdracht_spaties_met_functie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 17/opdracht_spaties_met_functie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 17/opdracht_spaties_met_functie/js/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/labo 17/opdracht_spaties_met_functie/js/JavaScript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/labo 17/opdracht_spaties_op_console/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 17/opdracht_spaties_op_console/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 17/opdracht_spaties_op_console/js/JavaScript.js" beforeDir="false" afterPath="$PROJECT_DIR$/labo 17/opdracht_spaties_op_console/js/JavaScript.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 17/opdracht_strings/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 17/opdracht_strings/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -139,6 +135,8 @@
       <workItem from="1678373532352" duration="3793000" />
       <workItem from="1678459402123" duration="575000" />
       <workItem from="1678552566750" duration="823000" />
+      <workItem from="1678553827972" duration="517000" />
+      <workItem from="1678615608641" duration="94000" />
     </task>
     <servers />
   </component>
