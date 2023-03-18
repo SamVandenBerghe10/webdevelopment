@@ -2,10 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/labo 18/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 18/opdracht_de_en_het/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 18/opdracht_de_en_het/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 18/opdracht_formvalidatie/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 18/opdracht_formvalidatie/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 18/opdracht_formvalidatie/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 18/opdracht_formwaarden/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 18/opdracht_formwaarden/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 18/opdracht_invoer_gemeenten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 18/opdracht_invoer_gemeenten/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 18/opdracht_trigrams/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 18/opdracht_trigrams/js/JavaScript.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 17/Man van An/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 17/Man van An/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 17/opdracht_spaties_met_functie/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 17/opdracht_spaties_met_functie/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 17/opdracht_spaties_op_console/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 17/opdracht_spaties_op_console/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,28 +52,28 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/labo 17/opdracht_spaties_met_functie&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/labo 18/opdracht_formvalidatie&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;settings.vite&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 18\opdracht_formvalidatie" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 17\opdracht_spaties_met_functie" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 16\opdracht_1" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_kopieer" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_4" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\ik wil meer\opdracht_kitchn\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 18\opdracht_trigrams" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_arrays\js" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_1\js" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\ik wil meer\opdracht_kitchn\style" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 11" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\labo 9\opdracht_airbus" />
     </key>
   </component>
   <component name="RunManager">
@@ -137,6 +147,10 @@
       <workItem from="1678552566750" duration="823000" />
       <workItem from="1678553827972" duration="517000" />
       <workItem from="1678615608641" duration="94000" />
+      <workItem from="1678868761956" duration="7700000" />
+      <workItem from="1678882034136" duration="7000" />
+      <workItem from="1679158090206" duration="13441000" />
+      <workItem from="1679172541477" duration="547000" />
     </task>
     <servers />
   </component>
