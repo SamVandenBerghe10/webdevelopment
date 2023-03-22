@@ -2,22 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo 19/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_1/JS/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_2/JS/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_2/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_2/img/Ned Flanders.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_3/JS/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_colorpicker/css/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_colorpicker/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_colorpicker/js/Javascript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_nodes/JS/JavaScript.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_nodes/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 19/opdracht_3/css/Style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 19/opdracht_1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 19/opdracht_1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 19/opdracht_2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 19/opdracht_2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 19/opdracht_3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 19/opdracht_3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 19/opdracht_colorpicker/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 19/opdracht_colorpicker/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 19/opdracht_colorpicker/js/Javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/labo 19/opdracht_colorpicker/js/Javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 19/opdracht_nodes/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/labo 19/opdracht_nodes/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,9 +19,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="CSS File" />
         <option value="JavaScript File" />
         <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -155,7 +147,7 @@
       <workItem from="1679172541477" duration="547000" />
       <workItem from="1679471180652" duration="10117000" />
       <workItem from="1679486875682" duration="2774000" />
-      <workItem from="1679500751996" duration="1044000" />
+      <workItem from="1679500751996" duration="1529000" />
     </task>
     <servers />
   </component>

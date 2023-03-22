@@ -44,7 +44,6 @@ const save = () => {
     let blauw = document.getElementsByClassName("blue");
     button.setAttribute('type', 'button')
     button.setAttribute('value', 'x')
-    button.className = 'verwijderen'
     element.style.backgroundColor =`rgb(${rood[0].value},${groen[0].value},${blauw[0].value}`
     element.className="doos"
     element.appendChild(button)
