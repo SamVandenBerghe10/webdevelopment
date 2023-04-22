@@ -2,19 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo 20/console.time.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 20/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 20/opdracht_hit_an_object/images/0.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 20/opdracht_hit_an_object/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 20/opdracht_hit_an_object/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 20/opdracht_hit_an_object/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 20/opdracht_hit_an_object/images/4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 20/opdracht_hit_an_object/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 20/opdracht_hit_an_object/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 20/opdracht_hit_an_object/styles/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 20/opdracht_matching_game/css/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 20/opdracht_matching_game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 20/opdracht_matching_game/js/JavaScript.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 21/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_naar_JSON_omzetten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_naar_JSON_omzetten/js/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_naar_object_omzetten/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_naar_object_omzetten/js/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_start_contact_manager/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_start_contact_manager/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_start_contact_manager/scripts/validatie.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_start_contact_manager/styles/styles.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_verjaardag/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_verjaardag/js/code.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -26,9 +24,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="JavaScript File" />
         <option value="CSS File" />
         <option value="HTML File" />
+        <option value="JavaScript File" />
       </list>
     </option>
   </component>
@@ -53,7 +51,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/labo 20&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/labo 21&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
@@ -63,11 +61,11 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 21" />
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 21\opdracht_naar_object_omzetten" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 20" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 19" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 19\opdracht_2\img" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 18\opdracht_formvalidatie" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 17\opdracht_spaties_met_functie" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 18\opdracht_trigrams" />
@@ -163,6 +161,11 @@
       <workItem from="1680253198340" duration="115000" />
       <workItem from="1680267485038" duration="721000" />
       <workItem from="1680394645286" duration="240000" />
+      <workItem from="1681722517634" duration="20000" />
+      <workItem from="1681893086677" duration="4613000" />
+      <workItem from="1682081025115" duration="4476000" />
+      <workItem from="1682158475639" duration="13445000" />
+      <workItem from="1682172135059" duration="2540000" />
     </task>
     <servers />
   </component>
