@@ -2,17 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo 21/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_naar_JSON_omzetten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_naar_JSON_omzetten/js/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_naar_object_omzetten/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_naar_object_omzetten/js/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_start_contact_manager/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_start_contact_manager/scripts/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_start_contact_manager/scripts/validatie.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_start_contact_manager/styles/styles.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_verjaardag/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 21/opdracht_verjaardag/js/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 22/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 22/opdracht_colorpicker/css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 22/opdracht_colorpicker/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Labo 22/opdracht_colorpicker/js/Javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
@@ -51,21 +45,21 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/labo 21&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/Labo 22&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\Labo 22" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 21" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 21\opdracht_naar_object_omzetten" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 20" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 19" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 19\opdracht_2\img" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 18\opdracht_trigrams" />
@@ -166,6 +160,9 @@
       <workItem from="1682081025115" duration="4476000" />
       <workItem from="1682158475639" duration="13445000" />
       <workItem from="1682172135059" duration="2540000" />
+      <workItem from="1682491822290" duration="6670000" />
+      <workItem from="1682498555557" duration="2976000" />
+      <workItem from="1682501676175" duration="146000" />
     </task>
     <servers />
   </component>
@@ -194,5 +191,11 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/labo 8" />
+      <path value="$PROJECT_DIR$/webdevelopment" />
+    </ignored-roots>
   </component>
 </project>
