@@ -1,0 +1,33 @@
+body
+{
+    font-family: sans-serif;
+}
+.hoofdinput {
+    width:900px;
+    height: 30px;
+}
+#uitleg
+{
+    font-weight: lighter;
+    color: grey;
+    font-size: small;
+    margin-top: 4px;
+}
+
+#button
+{
+    background-color: mediumseagreen;
+}
+.blokje
+{
+    background-color: red;
+    border: black solid 1px;
+    width: 200px;
+    height: 100px;
+
+}
+
+.blokjeText
+{
+    color: white;
+}
