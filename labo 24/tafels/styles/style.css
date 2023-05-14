@@ -1,0 +1,21 @@
+.tabel
+{
+    border: solid black 2px;
+    margin: 20px;
+    width: 300px;
+    display: inline-block;
+}
+.kop
+{
+    background-color: black;
+    color: white;
+    padding: 10px;
+}
+.inhoud
+{
+    padding: 10px
+}
+.inhoud:nth-child(odd)
+{
+    background-color: darkgray;
+}

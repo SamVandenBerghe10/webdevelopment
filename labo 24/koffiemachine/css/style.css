@@ -1,0 +1,18 @@
+.koop
+{
+    border: solid black 2px;
+    width: 150px;
+    height: 100px;
+    display: inline-block;
+    margin: 20px;
+}
+.koop p
+{
+    margin-left: 20px;
+    margin-bottom: 0px;
+}
+.aantal
+{
+width: 50px;
+    margin-left: 20px;
+}

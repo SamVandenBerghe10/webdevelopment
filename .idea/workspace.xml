@@ -2,13 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/labo 23/MyInternetStartPage/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 23/MyInternetStartPage/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 23/MyInternetStartPage/js/OudeCode.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 23/MyInternetStartPage/js/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/labo 23/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 24/koffiemachine/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 24/koffiemachine/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 24/koffiemachine/js/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 24/tafels/images/oefeningTafelsEindresultaat.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 24/tafels/images/oefeningTafelsvoorbeeld1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 24/tafels/images/startOefeningTafels.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 24/tafels/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 24/tafels/scripts/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/labo 24/tafels/styles/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 23/MyInternetStartPage/js/code.js" beforeDir="false" afterPath="$PROJECT_DIR$/labo 23/MyInternetStartPage/js/code.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,7 +49,7 @@
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/labo 23&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/labo 24&quot;,
     &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
@@ -55,18 +59,18 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 24" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 23" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\Labo 22" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 21" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 21\opdracht_naar_object_omzetten" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 20" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 24\tafels" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 23\MyInternetStartPage\css" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 18\opdracht_trigrams" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_arrays\js" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_1\js" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Web Developement\GitHub\webdevelopment\ik wil meer\opdracht_kitchn\style" />
     </key>
   </component>
   <component name="RunManager">
@@ -169,7 +173,9 @@
       <workItem from="1683145162215" duration="992000" />
       <workItem from="1683232007487" duration="3520000" />
       <workItem from="1683286977313" duration="388000" />
-      <workItem from="1683362367479" duration="1028000" />
+      <workItem from="1683362367479" duration="1686000" />
+      <workItem from="1683701272507" duration="30000" />
+      <workItem from="1683702230421" duration="10136000" />
     </task>
     <servers />
   </component>

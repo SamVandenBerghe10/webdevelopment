@@ -77,28 +77,24 @@ const aanmaken = (object) => {
     button.setAttribute("type", "button")
     button.setAttribute("value", "Go!")
     if (zoeksoort === "Google") {
-        let bewerktezoekterm = zoekterm.replaceAll(" ", "+")
         text = document.createTextNode(zoeksoort)
         blokje.style.backgroundColor = "rgb(0,153,255)"
         link.setAttribute("href", url)
         button.style.backgroundColor = "rgb(255,128,0)"
         button.style.color = "yellow"
     } else if (zoeksoort === "Youtube") {
-        let bewerktezoekterm = zoekterm.replaceAll(" ", "+")
         text = document.createTextNode(zoeksoort)
         blokje.style.backgroundColor = "rgb(255,0,0)"
         link.setAttribute("href", url)
         button.style.backgroundColor = "rgb(0,0,0)"
         button.style.color = "white"
     } else if (zoeksoort === "Twitter") {
-        let bewerktezoekterm = zoekterm.replaceAll(" ", "")
         text = document.createTextNode(zoeksoort)
         blokje.style.backgroundColor = "rgb(102,178,255)"
         link.setAttribute("href", url)
         button.style.backgroundColor = "rgb(0,0,0)"
         button.style.color = "white"
     } else if (zoeksoort === "Instagram") {
-        let bewerktezoekterm = zoekterm.replaceAll(" ", "")
         text = document.createTextNode("Instagram")
         blokje.style.backgroundColor = "rgb(255,102,178)"
         link.setAttribute("href", url)
