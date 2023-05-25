@@ -1,27 +1,20 @@
 //globale variabele, houdt bij: lijst met taken + het volgende ID dat aan een taak gegeven mag worden
 let global = {
-    idCount: 0,
-    lijst: []
+    lijst: [],
+    telaaten: true
 }
-//globale variabele, toont of de te laatte taken getoont worden of niet
-let telaaten = true
 //setup
 const setup = () => {
     //uitpakken en inladen van taken in de localstorage
     let globalobject = JSON.parse(localStorage.getItem("taakInformatie"))
-    if (globalobject !== null) {
-        if (globalobject.lijst !== null) {
-            global.lijst = globalobject.lijst
-            for (let i = 0; i < globalobject.lijst.length; i++) {
-                aanmaken(globalobject.lijst[i])
+        if (globalobject !== null) {
+            global.lijst = globalobject
+            for (let i = 0; i < globalobject.length; i++) {
+                aanmaken(globalobject[i])
             }
         } else {
             global.lijst = []
         }
-        if (globalobject.idCount !== null) {
-            global.idCount = globalobject.idCount
-        }
-    }
     //roept methode op die toevoegkop aanmaakt en in het inputveld plaatst
     nieuwknop()
     //eventlisteners voor de 3 knoppen onderaan de pagina
@@ -115,7 +108,6 @@ const nieuwmenu = () => {
             Taak: input1.value,
             Beschrijving: input2.value,
             Datum: input3.value,
-            ID: global.idCount
         }
 
         valideer(object)
@@ -127,11 +119,10 @@ const valideer = (object) => {
     if (object.Taak.trim() === "" || object.Beschrijving.trim() === "" || object.Datum.trim() === "") {
         window.alert("een van de velden is leeg")
     } else {//wanneer geen lege inputvelden, idcounter zal omhooggaan, object zal verwerkt worden tot een element, globale update wordt geupdate naar de localstorage
-        global.idCount += 1
         aanmaken(object)
         nieuwknop()
         global.lijst.push(object)
-        localStorage.setItem("taakInformatie", JSON.stringify(global))
+        localStorage.setItem("taakInformatie", JSON.stringify(global.lijst))
     }
 }
 
@@ -153,13 +144,11 @@ const aanmaken = (object) => {
 
     //wanneer de datum verstreken is zal het element rood zijn
     let datum = new Date(object.Datum)
+    let noTimeDatum = new Date(datum.getFullYear(), datum.getMonth(), datum.getDate())
     let nu = new Date()
-    if (nu > datum) {
-        let telaat = document.createElement("p")
-        let textTelaat = document.createTextNode("Te laat!")
-        telaat.appendChild(textTelaat)
+    let noTimeNu = new Date(nu.getFullYear(), nu.getMonth(), nu.getDate())
+    if (noTimeNu > noTimeDatum) {
         element.style.background = "red"
-        element.appendChild(telaat)
     }
 
     let p3 = document.createElement("p")
@@ -172,51 +161,52 @@ const aanmaken = (object) => {
     afronden.appendChild(text4)
     element.appendChild(afronden)
 
-    element.setAttribute("data-id", object.ID)
     opslagveld.appendChild(element)
     //eventlistener om taak te verwijderen, geeft taak ID mee
-    afronden.addEventListener("click", () => {
-        verwijderen(object.ID)
-    })
+    afronden.addEventListener("click", verwijderen2)
 }
-//methode die door meegegeven taak ID een taak zal verwijderen(ook uit localstorage)
-const verwijderen = (nummer) => {
-    let opslagveld = document.getElementById("opslagveld")
-    let elementlijst = opslagveld.children
-    let teller = 0;
-    let gevonden = false;
-    while (!gevonden && teller < elementlijst.length) {
-        if (Number.parseInt(elementlijst[teller].dataset.id) === nummer) {
-            elementlijst[teller].remove()
-            for (let i = 0; i < global.lijst.length; i++) {
-                if (Number.parseInt(global.lijst[i].ID) === nummer) {
-                    global.lijst.splice(i, 1)
-                    localStorage.setItem("taakInformatie", JSON.stringify(global))
-                }
-            }
+//methode die door een event een taak zal verwijderen(ook uit localstorage)
+const verwijderen2 = (event) =>
+{
+    let element = event.currentTarget.parentNode.children
+    let teller = 0
+    let gevonden = false
+    while(!gevonden && teller < global.lijst.length)
+    {
+        console.log(element[2].childNodes[0].nodeValue.slice(-10))
+        if (element[0].childNodes[0].nodeValue === global.lijst[teller].Taak && element[1].childNodes[0].nodeValue === global.lijst[teller].Beschrijving && element[2].childNodes[0].nodeValue.slice(-10) === global.lijst[teller].Datum)
+        {
+            global.lijst.splice(teller, 1)
+            localStorage.setItem("taakInformatie", JSON.stringify(global.lijst))
             gevonden = true
         }
         teller++
     }
+    event.currentTarget.parentNode.remove()
 }
 //methode om alle taken van het scherm en de localstorage te verwijderen
 const verwijderAlleTaken = () => {
-    for (let i = 0; i < global.lijst.length; i++) {
-        verwijderen(global.lijst[i].ID)
+    if(confirm("ben je zeker dat je alles wilt verwijderen?"))
+    {
+        let opslagveld = document.getElementById("opslagveld").children
+        for (let i = global.lijst.length-1; i > -1; i--) {
+            opslagveld[i].remove()
+        }
+        global.lijst = []
+        localStorage.setItem("taakInformatie", JSON.stringify(global.lijst))
     }
-    global.lijst = []
-    global.idCount = 0
-    localStorage.setItem("taakInformatie", JSON.stringify(global))
 }
 //zal de ene keer alle rode taken niet tonen en de andere keer wel
 const wisselTeLaat = () => {
     let opslagveld = document.getElementById("opslagveld")
-    if (telaaten) {
+    if (global.telaaten) {
         let lijstje = []
         for (let i = 0; i < global.lijst.length; i++) {
             let datum = new Date(global.lijst[i].Datum)
+            let noTimeDatum = new Date(datum.getFullYear(), datum.getMonth(), datum.getDate())
             let nu = new Date()
-            if (nu < datum) {
+            let noTimeNu = new Date(nu.getFullYear(), nu.getMonth(), nu.getDate())
+            if (noTimeNu <= noTimeDatum) {
                 lijstje.push(global.lijst[i])
             }
         }
@@ -226,16 +216,15 @@ const wisselTeLaat = () => {
         for (let i = 0; i < lijstje.length; i++) {
             aanmaken(lijstje[i])
         }
-        telaaten = false
+        global.telaaten = false
     } else {
         for (let i = opslagveld.children.length - 1; i > -1; i--) {
             opslagveld.children[i].remove()
         }
-        let globalobject = JSON.parse(localStorage.getItem("taakInformatie"))
-        for (let i = 0; i < globalobject.lijst.length; i++) {
-            aanmaken(globalobject.lijst[i])
+        for (let i = 0; i < global.lijst.length; i++) {
+            aanmaken(global.lijst[i])
         }
-        telaaten = true
+        global.telaaten = true
     }
 }
 //sorteert alle taken volgens datum
@@ -249,6 +238,6 @@ const sorteer = () => {
     for (let i = 0; i < lijstje.length; i++) {
         aanmaken(lijstje[i])
     }
-    telaaten = true
+    global.telaaten = true
 }
 window.addEventListener("load", setup);

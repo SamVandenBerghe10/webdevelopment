@@ -77,3 +77,13 @@ label
     margin-top: 10px;
     margin-left: 10px;
 }
+
+footer
+{
+    bottom: 5px;
+    position: absolute;
+    font-style: italic;
+    color: grey;
+    width: 200px;
+
+}
