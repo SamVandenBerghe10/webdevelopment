@@ -5,8 +5,7 @@ let global = {
 const setup = () => {
     let element = JSON.parse(localStorage.getItem("taakInformatie"))
     if (element != null) {
-        if (element.lijst != null)
-        {
+        if (element.lijst != null && element.lijst.length > 0) {
             global.lijst = element.lijst
             for (let i = 0; i < global.lijst.length; i++) {
                 save(global.lijst[i])
