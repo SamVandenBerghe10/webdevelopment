@@ -92,7 +92,7 @@ const save = (object) => {
     element.appendChild(p3)
 
     let afronden = p1.cloneNode(true)
-    p3.childNodes[0].nodeValue = "Taak afronden"
+    afronden.childNodes[0].nodeValue = "Taak afronden"
     element.appendChild(afronden)
 
     opslagveld.appendChild(element)

@@ -2,32 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Eindsprint/ColorPicker full/JS/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/ColorPicker full/css/style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/ColorPicker full/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/JS/code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/css/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/achterkant.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/kaart1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/kaart2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/kaart3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/kaart4.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/kaart5.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/kaart6.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/ToDo 3/css/Style.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/ToDo 3/img/add-button.svg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/ToDo 3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/ToDo 3/js/Code.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Eindsprint/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/To Do/css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Eindsprint/ToDo 2/css/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/To Do/img/add-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Eindsprint/ToDo 2/img/add-button.svg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/To Do/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Eindsprint/ToDo 2/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/To Do/js/Code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Eindsprint/ToDo 2/js/Code.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/labo 22/opdracht_colorpicker/js/Javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/labo 22/opdracht_colorpicker/js/Javascript.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Eindsprint/ToDo 3/js/Code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Eindsprint/ToDo 3/js/Code.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -208,7 +184,7 @@
       <workItem from="1685946285915" duration="37000" />
       <workItem from="1685984806073" duration="991000" />
       <workItem from="1686037307947" duration="4281000" />
-      <workItem from="1686041631750" duration="7138000" />
+      <workItem from="1686041631750" duration="7902000" />
     </task>
     <servers />
   </component>

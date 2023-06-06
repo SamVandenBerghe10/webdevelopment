@@ -15,19 +15,19 @@ const setup = () => {
     kaartveld.style.padding = "10px"
     kaartveld.style.width = "640px"
     for (let i = 0; i < kaartveld.children.length; i++) {
-        kaartveld.children[i].setAttribute("src", "img/achterkant.png")
+        kaartveld.children[i].setAttribute("src", "./img/achterkant.png")
         kaartveld.children[i].addEventListener("click", draaiOm)
     }
     while (global.lijst.length < 12) {
         let nummer = Math.round((Math.random() * 5) + 1)
         let aantal = 0
         for (let j = 0; j < global.lijst.length; j++) {
-            if (global.lijst[j] === "img/kaart" + nummer + ".png") {
+            if (global.lijst[j] === "./img/kaart" + nummer + ".png") {
                 aantal++
             }
         }
         if (aantal < 2) {
-            global.lijst.push("img/kaart" + nummer + ".png")
+            global.lijst.push("./img/kaart" + nummer + ".png")
         }
     }
     console.log(global.lijst)
@@ -57,8 +57,8 @@ const draaiOm = (event) => {
         } else {
             kaartveld.style.border = "red solid 5px"
             setTimeout(() => {
-                item1.setAttribute("src", "img/achterkant.png")
-                item2.setAttribute("src", "img/achterkant.png")
+                item1.setAttribute("src", "./img/achterkant.png")
+                item2.setAttribute("src", "./img/achterkant.png")
                 kaartveld.style.border = "black solid 5px"
             }, 1000)
 
