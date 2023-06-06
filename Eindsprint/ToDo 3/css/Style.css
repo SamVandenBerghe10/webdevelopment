@@ -1,0 +1,89 @@
+body
+{
+    font-family: sans-serif;
+}
+h1
+{
+    margin: 50px;
+}
+img
+{
+    height: 200px;
+    width: auto;
+}
+#inputveld
+{
+    width: 300px;
+    margin-left: 50px;
+    margin-bottom: 20px;
+}
+label
+{
+    display: block;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+#formulier
+{
+    padding: 10px;
+    border: solid 1px black;
+    display: none;
+}
+#divke input
+{
+    margin-right: 10px;
+    margin-top: 10px;
+
+}
+
+#opslagveld
+{
+    border-top: black solid 5px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.item
+{
+    border: black 1px solid;
+    border-radius: 10px;
+    padding: 10px;
+    width: 200px;
+    height: 200px;
+    margin-left: 30px;
+    display: inline-block;
+}
+
+.item p:first-child
+{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.item p:last-child
+{
+    font-weight: lighter;
+    font-style: italic;
+    text-decoration: underline;
+}
+
+#knopveld
+{
+    margin-left: auto;
+    margin-right: auto;
+    border-top: 5px solid black;
+}
+#knopveld input
+{
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+footer
+{
+    bottom: 5px;
+    font-style: italic;
+    color: grey;
+    width: 200px;
+
+}

@@ -23,12 +23,9 @@ const setup = () => {
     blauw[0].addEventListener("change", update)
     blauw[0].addEventListener("input", update)
 
-    if(JSON.parse(localStorage.getItem("lijst")) === null)
-    {
+    if (JSON.parse(localStorage.getItem("lijst")) === null) {
         global.KleurenLijst = []
-    }
-    else
-    {
+    } else {
         global.KleurenLijst = JSON.parse(localStorage.getItem("lijst"))
     }
     rood[0].value = localStorage.getItem("Rood")
@@ -52,7 +49,7 @@ const update = () => {
     roodtxt[0].innerHTML = rood[0].value
     greentxt[0].innerHTML = groen[0].value
     bluetxt[0].innerHTML = blauw[0].value
-    kleurdoos[0].style.backgroundColor=`rgb(${rood[0].value},${groen[0].value},${blauw[0].value})`;
+    kleurdoos[0].style.backgroundColor = `rgb(${rood[0].value},${groen[0].value},${blauw[0].value})`;
     global.Rood = rood[0].value
     localStorage.setItem("Rood", global.Rood)
     global.Groen = groen[0].value
@@ -72,7 +69,7 @@ const save = () => {
     button.setAttribute('value', 'x')
     let kleur = `rgb(${rood[0].value},${groen[0].value},${blauw[0].value})`
     element.style.backgroundColor = kleur
-    element.className="doos"
+    element.className = "doos"
     element.appendChild(button)
     document.getElementById("toevoegen").appendChild(element)
     button.addEventListener("click", verwijder)
@@ -81,16 +78,13 @@ const save = () => {
     localStorage.setItem("lijst", jsonlijst)
 }
 
-const verwijder = (event) =>
-{
+const verwijder = (event) => {
 
     let gevonden = false
     let teller = 0
-    while(!gevonden && teller < global.KleurenLijst.length)
-    {
+    while (!gevonden && teller < global.KleurenLijst.length) {
         let string = event.currentTarget.parentNode.style.backgroundColor.replaceAll(" ", "")
-        if (global.KleurenLijst[teller] === string)
-        {
+        if (global.KleurenLijst[teller] === string) {
             global.KleurenLijst.splice(teller, 1)
             gevonden = true
             let jsonlijst = JSON.stringify(global.KleurenLijst)
@@ -103,15 +97,14 @@ const verwijder = (event) =>
 }
 
 const inladen = (lijst) => {
-    if (lijst !== null)
-    {
+    if (lijst !== null) {
         for (let i = 0; i < lijst.length; i++) {
             let element = document.createElement('div')
             let button = document.createElement('input')
             button.setAttribute('type', 'button')
             button.setAttribute('value', 'x')
-            element.style.backgroundColor =lijst[i]
-            element.className="doos"
+            element.style.backgroundColor = lijst[i]
+            element.className = "doos"
             element.appendChild(button)
             document.getElementById("toevoegen").appendChild(element)
             button.addEventListener("click", verwijder)

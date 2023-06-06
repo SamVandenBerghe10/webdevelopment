@@ -2,10 +2,32 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5e98d122-cc1d-4acf-8d3c-a19c561d0d22" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Eindsprint/ColorPicker full/JS/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/ColorPicker full/css/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/ColorPicker full/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/JS/code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/achterkant.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/kaart1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/kaart2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/kaart3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/kaart4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/kaart5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/img/kaart6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/Matching game/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/ToDo 3/css/Style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/ToDo 3/img/add-button.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/ToDo 3/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/ToDo 3/js/Code.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Eindsprint/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/To Do/css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/To Do/css/Style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/To Do/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/To Do/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/To Do/js/Code.js" beforeDir="false" afterPath="$PROJECT_DIR$/To Do/js/Code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/To Do/css/Style.css" beforeDir="false" afterPath="$PROJECT_DIR$/Eindsprint/ToDo 2/css/Style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/To Do/img/add-button.svg" beforeDir="false" afterPath="$PROJECT_DIR$/Eindsprint/ToDo 2/img/add-button.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/To Do/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Eindsprint/ToDo 2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/To Do/js/Code.js" beforeDir="false" afterPath="$PROJECT_DIR$/Eindsprint/ToDo 2/js/Code.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/labo 22/opdracht_colorpicker/js/Javascript.js" beforeDir="false" afterPath="$PROJECT_DIR$/labo 22/opdracht_colorpicker/js/Javascript.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +38,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
-        <option value="CSS File" />
         <option value="JavaScript File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -35,35 +57,35 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/labo 24&quot;,
-    &quot;list.type.of.created.stylesheet&quot;: &quot;CSS&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Users/samva/OneDrive - Hogeschool VIVES/Documenten/VIVES/Bachelor Toegepaste informatica/1e jaar/Semester 1/Web Developement/GitHub/webdevelopment/Eindsprint",
+    "list.type.of.created.stylesheet": "CSS",
+    "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\Eindsprint" />
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\Eindsprint\ToDo" />
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\Eindsprint\Matching game" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 24" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 23" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\Labo 22" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 21" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 21\opdracht_naar_object_omzetten" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\Eindsprint" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 24\tafels" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 23\MyInternetStartPage\css" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 18\opdracht_trigrams" />
       <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_arrays\js" />
-      <recent name="C:\Users\samva\OneDrive - Hogeschool VIVES\Documenten\VIVES\Bachelor Toegepaste informatica\1e jaar\Semester 1\Web Developement\GitHub\webdevelopment\labo 15\opdracht_1\js" />
     </key>
   </component>
   <component name="RunManager">
@@ -176,7 +198,17 @@
       <workItem from="1684677965544" duration="31000" />
       <workItem from="1684759399759" duration="54000" />
       <workItem from="1685006228683" duration="2529000" />
-      <workItem from="1685014417559" duration="3385000" />
+      <workItem from="1685014417559" duration="4150000" />
+      <workItem from="1685018637191" duration="253000" />
+      <workItem from="1685087317233" duration="163000" />
+      <workItem from="1685087599026" duration="120000" />
+      <workItem from="1685192944016" duration="2427000" />
+      <workItem from="1685692389973" duration="8581000" />
+      <workItem from="1685704420745" duration="8610000" />
+      <workItem from="1685946285915" duration="37000" />
+      <workItem from="1685984806073" duration="991000" />
+      <workItem from="1686037307947" duration="4281000" />
+      <workItem from="1686041631750" duration="7138000" />
     </task>
     <servers />
   </component>
