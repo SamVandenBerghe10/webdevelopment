@@ -134,7 +134,7 @@ const wisselTeLaat = () => {
             let noTimeDatum = new Date(datum.getFullYear(), datum.getMonth(), datum.getDate())
             let nu = new Date()
             let noTimeNu = new Date(nu.getFullYear(), nu.getMonth(), nu.getDate())
-            if (noTimeNu >= noTimeDatum) {
+            if (noTimeNu > noTimeDatum) {
                 opslagveld[i].style.display = "none"
             }
         }
